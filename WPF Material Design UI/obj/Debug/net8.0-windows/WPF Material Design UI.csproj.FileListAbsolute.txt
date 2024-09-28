@@ -1,0 +1,22 @@
+D:\Linh\Design_WPF\WPF Material Design UI\bin\Debug\net8.0-windows\WPF Material Design UI.exe
+D:\Linh\Design_WPF\WPF Material Design UI\bin\Debug\net8.0-windows\WPF Material Design UI.deps.json
+D:\Linh\Design_WPF\WPF Material Design UI\bin\Debug\net8.0-windows\WPF Material Design UI.runtimeconfig.json
+D:\Linh\Design_WPF\WPF Material Design UI\bin\Debug\net8.0-windows\WPF Material Design UI.dll
+D:\Linh\Design_WPF\WPF Material Design UI\bin\Debug\net8.0-windows\WPF Material Design UI.pdb
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\App.g.cs
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI_MarkupCompile.cache
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI_MarkupCompile.lref
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.g.resources
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.AssemblyInfoInputs.cache
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.AssemblyInfo.cs
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.csproj.CoreCompileInputs.cache
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.dll
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\refint\WPF Material Design UI.dll
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.pdb
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\WPF Material Design UI.genruntimeconfig.cache
+D:\Linh\Design_WPF\WPF Material Design UI\obj\Debug\net8.0-windows\ref\WPF Material Design UI.dll

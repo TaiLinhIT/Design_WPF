@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Linh\\Design_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9556A9B-79E6-41E5-88C8-1C4CCD160644}|CalenderControlDemo\\CalenderControlDemo.csproj|d:\\linh\\design_wpf\\calendercontroldemo\\calendercontroldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9556A9B-79E6-41E5-88C8-1C4CCD160644}|CalenderControlDemo\\CalenderControlDemo.csproj|solutionrelative:calendercontroldemo\\calendercontroldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D94198-F93C-4958-BD13-663BC67EA9C5}|ButtonDemo\\ButtonDemo.csproj|d:\\linh\\design_wpf\\buttondemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30D94198-F93C-4958-BD13-663BC67EA9C5}|ButtonDemo\\ButtonDemo.csproj|solutionrelative:buttondemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFFB8-BE8A-4837-81DE-02072A7BDED3}|DatePickerDemo\\DatePickerDemo.csproj|d:\\linh\\design_wpf\\datepickerdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C9CFFB8-BE8A-4837-81DE-02072A7BDED3}|DatePickerDemo\\DatePickerDemo.csproj|solutionrelative:datepickerdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFFB8-BE8A-4837-81DE-02072A7BDED3}|DatePickerDemo\\DatePickerDemo.csproj|d:\\linh\\design_wpf\\datepickerdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9CFFB8-BE8A-4837-81DE-02072A7BDED3}|DatePickerDemo\\DatePickerDemo.csproj|solutionrelative:datepickerdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9556A9B-79E6-41E5-88C8-1C4CCD160644}|CalenderControlDemo\\CalenderControlDemo.csproj|d:\\linh\\design_wpf\\calendercontroldemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9556A9B-79E6-41E5-88C8-1C4CCD160644}|CalenderControlDemo\\CalenderControlDemo.csproj|solutionrelative:calendercontroldemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9556A9B-79E6-41E5-88C8-1C4CCD160644}|CalenderControlDemo\\CalenderControlDemo.csproj|d:\\linh\\design_wpf\\calendercontroldemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9556A9B-79E6-41E5-88C8-1C4CCD160644}|CalenderControlDemo\\CalenderControlDemo.csproj|solutionrelative:calendercontroldemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BCA728-D747-414B-9E86-E5CE175689D8}|SliderDemo\\SliderDemo.csproj|d:\\linh\\design_wpf\\sliderdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49BCA728-D747-414B-9E86-E5CE175689D8}|SliderDemo\\SliderDemo.csproj|solutionrelative:sliderdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BCA728-D747-414B-9E86-E5CE175689D8}|SliderDemo\\SliderDemo.csproj|d:\\linh\\design_wpf\\sliderdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BCA728-D747-414B-9E86-E5CE175689D8}|SliderDemo\\SliderDemo.csproj|solutionrelative:sliderdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB888-37B9-4345-8FE0-F81F708FE5E1}|ImageControlDemo\\ImageControlDemo.csproj|d:\\linh\\design_wpf\\imagecontroldemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB888-37B9-4345-8FE0-F81F708FE5E1}|ImageControlDemo\\ImageControlDemo.csproj|solutionrelative:imagecontroldemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB888-37B9-4345-8FE0-F81F708FE5E1}|ImageControlDemo\\ImageControlDemo.csproj|d:\\linh\\design_wpf\\imagecontroldemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33CDB888-37B9-4345-8FE0-F81F708FE5E1}|ImageControlDemo\\ImageControlDemo.csproj|solutionrelative:imagecontroldemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94264DF-B9F5-4C8C-9275-D4CB4207E08F}|PasswordBoxDemo\\PasswordBoxDemo.csproj|d:\\linh\\design_wpf\\passwordboxdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B94264DF-B9F5-4C8C-9275-D4CB4207E08F}|PasswordBoxDemo\\PasswordBoxDemo.csproj|solutionrelative:passwordboxdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94264DF-B9F5-4C8C-9275-D4CB4207E08F}|PasswordBoxDemo\\PasswordBoxDemo.csproj|d:\\linh\\design_wpf\\passwordboxdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94264DF-B9F5-4C8C-9275-D4CB4207E08F}|PasswordBoxDemo\\PasswordBoxDemo.csproj|solutionrelative:passwordboxdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DAA662-144F-43C6-9C59-A126ED828C98}|CheckBoxDemo\\CheckBoxDemo.csproj|d:\\linh\\design_wpf\\checkboxdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DAA662-144F-43C6-9C59-A126ED828C98}|CheckBoxDemo\\CheckBoxDemo.csproj|solutionrelative:checkboxdemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1DAA662-144F-43C6-9C59-A126ED828C98}|CheckBoxDemo\\CheckBoxDemo.csproj|d:\\linh\\design_wpf\\checkboxdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1DAA662-144F-43C6-9C59-A126ED828C98}|CheckBoxDemo\\CheckBoxDemo.csproj|solutionrelative:checkboxdemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055BB53B-E37F-446A-8DF1-96493F050839}|RadioButtonDemo\\RadioButtonDemo.csproj|d:\\linh\\design_wpf\\radiobuttondemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055BB53B-E37F-446A-8DF1-96493F050839}|RadioButtonDemo\\RadioButtonDemo.csproj|solutionrelative:radiobuttondemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055BB53B-E37F-446A-8DF1-96493F050839}|RadioButtonDemo\\RadioButtonDemo.csproj|d:\\linh\\design_wpf\\radiobuttondemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{055BB53B-E37F-446A-8DF1-96493F050839}|RadioButtonDemo\\RadioButtonDemo.csproj|solutionrelative:radiobuttondemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D94198-F93C-4958-BD13-663BC67EA9C5}|ButtonDemo\\ButtonDemo.csproj|d:\\linh\\design_wpf\\buttondemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D94198-F93C-4958-BD13-663BC67EA9C5}|ButtonDemo\\ButtonDemo.csproj|solutionrelative:buttondemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalenderControlDemo",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\CalenderControlDemo\\CalenderControlDemo.csproj",
+              "RelativeDocumentMoniker": "CalenderControlDemo\\CalenderControlDemo.csproj",
+              "ToolTip": "D:\\Linh\\Design_WPF\\CalenderControlDemo\\CalenderControlDemo.csproj",
+              "RelativeToolTip": "CalenderControlDemo\\CalenderControlDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T07:09:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\DatePickerDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DatePickerDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\DatePickerDemo\\MainWindow.xaml",
+              "RelativeToolTip": "DatePickerDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T09:38:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\CalenderControlDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CalenderControlDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\CalenderControlDemo\\MainWindow.xaml",
+              "RelativeToolTip": "CalenderControlDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T09:22:40.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\CalenderControlDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CalenderControlDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\CalenderControlDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CalenderControlDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:22:39.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\SliderDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SliderDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\SliderDemo\\MainWindow.xaml",
+              "RelativeToolTip": "SliderDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T08:38:48.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\SliderDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SliderDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\SliderDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SliderDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:38:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\ImageControlDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ImageControlDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\ImageControlDemo\\MainWindow.xaml",
+              "RelativeToolTip": "ImageControlDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T08:14:56.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\ImageControlDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ImageControlDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\ImageControlDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ImageControlDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:14:55.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\PasswordBoxDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PasswordBoxDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\PasswordBoxDemo\\MainWindow.xaml",
+              "RelativeToolTip": "PasswordBoxDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T08:08:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\ButtonDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\ButtonDemo\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T04:10:30.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\DatePickerDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DatePickerDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\DatePickerDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DatePickerDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:38:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\PasswordBoxDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PasswordBoxDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\PasswordBoxDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PasswordBoxDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:08:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\CheckBoxDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBoxDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\CheckBoxDemo\\MainWindow.xaml",
+              "RelativeToolTip": "CheckBoxDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T07:09:20.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\CheckBoxDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheckBoxDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\CheckBoxDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CheckBoxDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:09:19.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\RadioButtonDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RadioButtonDemo\\MainWindow.xaml",
+              "ToolTip": "D:\\Linh\\Design_WPF\\RadioButtonDemo\\MainWindow.xaml",
+              "RelativeToolTip": "RadioButtonDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-03T06:44:13.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\RadioButtonDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RadioButtonDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\RadioButtonDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RadioButtonDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:44:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Linh\\Design_WPF\\ButtonDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonDemo\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Linh\\Design_WPF\\ButtonDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T04:10:32.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
